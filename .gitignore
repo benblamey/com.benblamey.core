@@ -40,7 +40,3 @@ repositories/
 *.out
 *.tmp
 
-# build-generated files
-*.timestamp
-**/.gradle
-**/.idea
